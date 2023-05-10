@@ -2,6 +2,9 @@
 
 A Flutter project for Moniepoint take home task.
 
+Link to the UI task 
+https://dribbble.com/shots/20449197/attachments/15494059?mode=media
+
 ### Installation
 Step by step instructions what you need to do after fulfilling the prerequisites to launch the application.
 
@@ -54,4 +57,4 @@ Step by step instructions what you need to do after fulfilling the prerequisites
   * [top_reviews.dart](./lib/widgets/top_reviews.dart)
 * [main.dart](./lib/main.dart)
 
-
+### Screenshots
