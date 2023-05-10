@@ -8,14 +8,9 @@ https://dribbble.com/shots/20449197/attachments/15494059?mode=media
 ### Installation
 Step by step instructions what you need to do after fulfilling the prerequisites to launch the application.
 
-
 1. Clone project from GIT
 2. Run `flutter pub get`.
 3. Run the app with `flutter run`.
-
-
-
-
 
 ### Package Structure
     
